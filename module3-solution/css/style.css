@@ -1,0 +1,56 @@
+.navbar{
+    border-radius: 0px;
+    border: 0px;
+}
+.navbar-inverse .navbar-brand{
+    font-size: 30px;
+    padding-left: 20px;
+    color: white;
+}
+.navbar-inverse .navbar-brand:hover{
+    color: lightgrey;
+}
+.navbar-inverse .navbar-toggle{
+    border: 2px solid white;
+}
+.navbar-inverse .navbar-toggle:hover{
+    background-color: gray;
+}
+#nav-list a{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+#nav-list a:hover{
+    color: white;
+    background-color: lightgrey;
+}
+.menuitem{
+    border-bottom: 1px solid black;
+}
+.navbar .navbar-collapse .visible-xs{
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 1px solid black;
+}
+.text-center{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+}
+.content{
+    background-color: lightgrey;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
